@@ -10,6 +10,7 @@ This project lets users chat with an AI assistant, stores all messages in MongoD
 ---
 
 ## 📂 Project Structure
+
 /project-root
 ├── public/
 │ ├── index.html
